@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Reflective-GUI-Generator:jar">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="Reflective-GUI-Generator.jar">
+      <element id="module-output" name="Reflective-GUI-Generator" />
+    </root>
+  </artifact>
+</component>
